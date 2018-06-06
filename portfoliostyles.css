@@ -1,0 +1,52 @@
+h1 {
+	color: black;
+}
+
+body {
+	color: black;
+	background: url(barrettmilwaukee.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.solid {
+	border: 1px solid #F5F5DC;
+	border-radius: 8px;
+	margin: 1px;
+	background: rgba(51, 153, 255, .7);
+	font-family: 'Montserrat', sans-serif;
+	font-size: 25px;
+}
+
+.jumbotron {
+	background-color: white;
+}
+
+.solid2 {
+	border: 1px solid #F5F5DC;
+	border-radius: 8px;
+	margin: 5px;
+	background: rgba(138, 199, 219, .7);
+}
+
+h2 {
+	color: rgba(252, 244, 232, .9);
+	font-family: 'Montserrat', sans-serif;
+}
+
+.contact {
+	color: rgba(252, 244, 232, .9);
+	font-family: 'Montserrat', sans-serif;
+	font-size: 25px
+	}
+
+.firstpage {
+	border: 1px solid #F5F5DC;
+	border-radius: 8px;
+	margin: 5px;
+	background: white;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 25px;
+}
